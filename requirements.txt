@@ -1,0 +1,54 @@
+# Python 3.11
+# Instalación: uv venv --python 3.11 && uv pip install -r requirements.txt
+
+# --- Datos y cálculo ---
+numpy
+pandas
+scipy
+pyarrow
+duckdb
+openpyxl
+
+# --- Estadística y machine learning ---
+scikit-learn
+statsmodels
+lightgbm
+xgboost
+catboost
+imbalanced-learn
+optuna
+
+# --- Riesgo de crédito (WoE, IV, scorecards) ---
+optbinning
+
+# --- Interpretabilidad ---
+shap
+
+# --- Visualización ---
+matplotlib
+seaborn
+plotly
+
+# --- Análisis exploratorio automático ---
+ydata-profiling
+
+# --- Notebooks ---
+jupyterlab
+ipykernel
+ipywidgets
+
+# --- Big data ---
+pyspark
+
+# --- MLOps y despliegue ---
+mlflow
+fastapi
+uvicorn
+joblib
+
+# --- Presentación ---
+python-pptx
+
+# --- Calidad y utilidades ---
+pytest
+tqdm

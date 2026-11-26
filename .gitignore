@@ -1,0 +1,24 @@
+# Configuración local de Claude Code
+.claude/
+CLAUDE.md
+
+# macOS
+.DS_Store
+
+# Material de preparación (no forma parte del entregable)
+PLAN.md
+CHECKLIST.md
+assets/*.pdf
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Datos y artefactos
+data/
+mlruns/
+*.pkl
+*.joblib
